@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name":"Saitama",
+        "class":" Class: S"
+    },
+    {
+        "id":2,
+        "name":"Luffy",
+        "class":"Class: S"
+    },
+    {
+        "id":3,
+        "name":"genos",
+        "class":"Class: A"
+    },
+    {
+        "id":4,
+        "name":"Gon",
+        "class":"Class: A"
+    }
+]

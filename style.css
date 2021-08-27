@@ -1,0 +1,41 @@
+#h{
+     
+        color: white;
+        font-size: 40px;
+        text-shadow: -1px 1px 0 #000,
+                      1px 1px 0 #000,
+                      1px -1px 0 #000,
+                      -1px -1px 0 #000;
+    
+}
+.name{
+    width: 26rem;
+    background: none !important;
+    color: #fff;
+    cursor: pointer;
+}
+.name:hover{
+    color: red;
+}
+.fgdf{
+    width: 26rem;
+    
+}
+.cs{
+    margin: 10px;
+    height: 40px;
+}
+
+body{
+    /* background-color: cornflowerblue; */
+     background-image: url('op.jpg'); 
+    background-size: cover;
+
+}
+.card{
+    background-color: none;
+}
+
+.cardbg{
+    background-color: transparent;
+}
